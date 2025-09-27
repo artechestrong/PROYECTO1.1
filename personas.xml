@@ -9,4 +9,9 @@
 	<edad>19</edad>
 	<ciudad>Cádiz</ciudad>
 </persona>
+<persona>
+	<nombre>Lolo</nombre>
+	<edad>17</edad>
+	<ciudad>Leganés</ciudad>
+</persona>
 </personas>
