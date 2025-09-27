@@ -1,5 +1,12 @@
+<personas>
 <persona>
 	<nombre>Antonio</nombre>
 	<edad>18</edad>
 	<ciudad>Chiclana de la Frontera</ciudad>
 </persona>
+<persona>
+	<nombre>Isra</nombre>
+	<edad>19</edad>
+	<ciudad>Cádiz</ciudad>
+</persona>
+</personas>
